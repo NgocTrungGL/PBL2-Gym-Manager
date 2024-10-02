@@ -1,0 +1,10 @@
+101 2018 7e+06 1     May chay bo MSI 1
+102 2018 7e+06 0     May chay bo MSI 2
+103 2018 7e+06 0     May chay bo MSI 3
+104 2018 7e+06 1     May chay bo MSI 4
+201 2019 3e+06 1     May dap xe KS 1
+202 2019 3e+06 1     May dap xe KS 1
+301 2018 4.5e+06 1  May tap co 1
+401 2020 3.7e+06 1     May rung 1
+402 2020 3.7e+06 1     May rung 2
+501 2020 4.1e+06 1     May tap bung 1

@@ -1,0 +1,2 @@
+admin1 123456 Phong
+admin2 123456 hoang
